@@ -6,7 +6,7 @@ This project is for educational porpuses only.
 
 Site published at https://github.com/MantvydasLabane/03_Mergaite
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
+Design: [Mergaite](https://mantvydaslabane.github.io/03_Mergaite/)
 
 ## Project features
 
