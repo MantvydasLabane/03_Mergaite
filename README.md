@@ -12,7 +12,8 @@ Design: [Mergaite](https://mantvydaslabane.github.io/03_Mergaite/)
 
 - Github pages
 - desktop only
-
+- fixed width content
+- transparent images (.png) 
 ## Authors
 
 [Mantvydas](https://github.com/MantvydasLabane)
